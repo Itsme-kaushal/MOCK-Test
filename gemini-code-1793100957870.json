@@ -1,0 +1,791 @@
+{
+  "schemaVersion": "1.0",
+  "papers": [
+    {
+      "exam": "DSSSB MTS",
+      "paperName": "Multi Tasking Staff",
+      "year": 2026,
+      "date": "2026-07-26",
+      "shift": "9:00 AM - 11:00 AM",
+      "durationMin": 120,
+      "totalMarks": 200,
+      "marking": null,
+      "sections": [
+        {
+          "name": "General Intelligence and Reasoning Ability",
+          "durationMin": null,
+          "marking": null,
+          "questions": [
+            {
+              "qNo": 1,
+              "text": "Seven persons E, F, S, U, W, X and Y are sitting in a row facing north. Only three people sit to the left of F. Only X sits to the right of W. Only three people sit between W and U. Y sits at some place to the left of S but at some place to the right of E. How many people sit between E and S?",
+              "textHi": null,
+              "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 2,
+              "text": "Each letter in the word KINDLY is changed to the letter immediately preceding it in the English alphabetical order and then all the letters thus formed are arranged in alphabetical order. Which of the following letters will be fourth from the right in the new group of letters thus formed?",
+              "textHi": null,
+              "options": [
+                "M",
+                "C",
+                "J",
+                "H"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 3,
+              "text": "TSTX is related to ZYZD in a certain way based on the English alphabetical order. In the same way, UTUY is related to AZAE. To which of the following is BABF related to, following the same logic?",
+              "textHi": null,
+              "options": [
+                "HHGM",
+                "HGGL",
+                "HFGL",
+                "HGHL"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 4,
+              "text": "Each of A, B, C, D, E, F and G has a class on a different day of a week starting from Monday and ending on Sunday of the same week. Exactly two people have classes between E and G and E 's class is on one of the days before G. B has a class on the day immediately before E. F has a class on Friday. C is the only person who has a class before D. Who has a class on Saturday?",
+              "textHi": null,
+              "options": [
+                "B",
+                "A",
+                "G",
+                "E"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 5,
+              "text": "S is the brother of F. F is the father of T. H is the father of L. L is the son of T. How is S related to L?",
+              "textHi": null,
+              "options": [
+                "Mother's father's brother",
+                "Father's brother",
+                "Mother's father's father",
+                "Mother's father"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 6,
+              "text": "Each letter in the word FLORIST is changed to the letter immediately preceding it in the English alphabetical order and then all the letters thus formed are arranged in the English alphabetical order. Which of the following letters will be fourth from the right in the new group of letters thus formed?",
+              "textHi": null,
+              "options": [
+                "R",
+                "Q",
+                "N",
+                "K"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 7,
+              "text": "Refer to the following number, symbol series and answer the question. All numbers are single-digit numbers.\n(Left) 5 % 2 7 $ 9 * 1 # 6 & 3 @ 4 £ 8 @ 2 (Right)\nIf all the symbols are dropped from the series, which of the following will be sixth from the right?",
+              "textHi": null,
+              "options": [
+                "6",
+                "4",
+                "9",
+                "1"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 8,
+              "text": "In a certain code,\n'A * H' means A is the son of H,\n'A @ H' means A is the mother of H.\nIf $M * L @ D * R$, how is R related to M?",
+              "textHi": null,
+              "options": [
+                "Mother",
+                "Daughter",
+                "Son",
+                "Father"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 9,
+              "text": "Each vowel in the word WAMBLES is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the group of letters thus formed?",
+              "textHi": null,
+              "options": [
+                "Three",
+                "One",
+                "Zero",
+                "Two"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 10,
+              "text": "Seven persons A, C, D, H, N, U and W are sitting in a row facing north. Only three people sit between D and N. U sits to the immediate left of N. No one sits to the right of C. Only two people sit between C and U. H sits to the immediate right of A. How many people sit between W and H?",
+              "textHi": null,
+              "options": [
+                "One",
+                "Three",
+                "Two",
+                "Four"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 11,
+              "text": "This question is based on the following words.\nPER BIO GAS AND\nIn each of the words, each vowel is changed to the letter immediately following it in the English alphabetical order, and each consonant is changed to the letter immediately preceding it in the English alphabetical order. In how many letter-clusters thus formed, will no vowel appear?",
+              "textHi": null,
+              "options": [
+                "Two",
+                "Three",
+                "Four",
+                "One"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 12,
+              "text": "Select the pair which follows the same pattern as that followed by the two set of pairs given below. Both pairs follow the same pattern.\nPVS : RXU\nIDM : KFO",
+              "textHi": null,
+              "options": [
+                "RBK : TEN",
+                "COL : FQN",
+                "GNE : IPG",
+                "JFT : LIV"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 13,
+              "text": "EWQA is related to JCVG in a certain way based on the English alphabetical order. In the same way, YUKY is related to DAPE. To which of the following options is NMZQ related to, following the same logic?",
+              "textHi": null,
+              "options": [
+                "SSEW",
+                "SSWE",
+                "WESS",
+                "WSSE"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 14,
+              "text": "Each of P, Q, R, S, T, U and V has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. T has an exam on Thursday. Exactly 4 people have their exam between V and S, neither of whom has an exam on Sunday. U has an exam immediately before R. Q does not have an exam on Friday. V does not have an exam after R. How many people have an exam between Q and R?",
+              "textHi": null,
+              "options": [
+                "3",
+                "4",
+                "2",
+                "1"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 15,
+              "text": "In a certain code language, 'CODE' is coded as '5862' and 'GROW' is coded as '4720'. What is the code for 'O' in the given code language?",
+              "textHi": null,
+              "options": [
+                "4",
+                "6",
+                "2",
+                "3"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 16,
+              "text": "In a certain code language, 'rain clean earth' is coded as 'gh mk zb' and 'after rain effect' is coded as 'ip jr mk'. How is 'rain' coded in the given language? (All codes are two letter codes only).",
+              "textHi": null,
+              "options": [
+                "mk",
+                "ip",
+                "zb",
+                "jr"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 17,
+              "text": "Seven persons A, C, F, G, H, L and M are sitting in a row facing north. Only three people sit to the right of A. Only one person sits to the left of H. G sits immediately to the right of C. Only four people sit between G and H. M sits some place to the left of F but some place to the right of L. How many people sit between L and G?",
+              "textHi": null,
+              "options": [
+                "One",
+                "Five",
+                "Four",
+                "Three"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 18,
+              "text": "Refer to the following number series and answer the question that follows. Counting to be done from left to right only. All numbers are single-digit numbers only.\n(Left) 9 3 8 7 9 4 8 6 2 5 9 3 6 5 1 2 6 1 5 8 3 9 9 6 8 8 3 9 (Right)\nHow many such perfect squares are there, each of which is immediately preceded by an odd digit and also immediately followed by an even digit? (NOTE: 1 is also a perfect square.)",
+              "textHi": null,
+              "options": [
+                "Three",
+                "One",
+                "More than three",
+                "Two"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 19,
+              "text": "Vivaan ranked 20th from the top and 25th from the bottom in his class. How many students are there in the class?",
+              "textHi": null,
+              "options": [
+                "45",
+                "44",
+                "43",
+                "46"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 20,
+              "text": "Six boxes P, Q, R, S, T and U are kept one over the other but not necessarily in the same order. Box P is kept immediately below Q. Exactly two boxes are kept between P and S. Box T is kept third from the bottom. R is kept immediately above T. How many boxes are kept between U and R?",
+              "textHi": null,
+              "options": [
+                "None",
+                "Two",
+                "Three",
+                "One"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            }
+          ]
+        },
+        {
+          "name": "General Intelligence and Reasoning Ability1",
+          "durationMin": null,
+          "marking": null,
+          "questions": [
+            {
+              "qNo": 1,
+              "text": "Which of the following letter clusters should replace # and % so that the pattern and relationship followed between the letter cluster pair on the left side of :: is the same as that on the right side of :: ?\n#: YSN :: PJD: %",
+              "textHi": null,
+              "options": [
+                "#=MOK, %=TFG",
+                "#=UPJ, %=TMH",
+                "#=NOK, %=RNE",
+                "#=OPK, %=RNH"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 2,
+              "text": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?\n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+              "textHi": null,
+              "options": [
+                "AV - FB",
+                "TP - YV",
+                "IZ - NE",
+                "NW - SC"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 3,
+              "text": "What should come in place of '?' in the given series?\n325 332 346 353 367 374 ?",
+              "textHi": null,
+              "options": [
+                "397",
+                "380",
+                "388",
+                "381"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 4,
+              "text": "If + means -, - means x, x means ÷, ÷ means +, then what will come in place of the question mark (?) in the following equation?\n$82 - 6 \\div 57 + 93 \\times 3 = ?$",
+              "textHi": null,
+              "options": [
+                "518",
+                "512",
+                "515",
+                "508"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 5,
+              "text": "Each of the digits in the number 2864317 is arranged in ascending order from left to right. The position of how many digits will remain unchanged as compared to that in the original number?",
+              "textHi": null,
+              "options": [
+                "Three",
+                "One",
+                "None",
+                "Two"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 6,
+              "text": "Each of the digits in the number 519428637 is arranged in descending order from left to right. What will be the sum of the digits which are second from the left and fourth from the right in the number thus formed?",
+              "textHi": null,
+              "options": [
+                "12",
+                "13",
+                "14",
+                "15"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 7,
+              "text": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+              "textHi": null,
+              "options": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": true,
+              "imageDescription": "A square containing an abstract maze-like geometric pattern with two zig-zag vertical track shapes, with a vertical mirror line labeled MN to the right."
+            },
+            {
+              "qNo": 8,
+              "text": "Identify the figure given in the options which, when put in place of '?', will logically complete the series.",
+              "textHi": null,
+              "options": [
+                "Option 1",
+                "Option 2",
+                "Option 3",
+                "Option 4"
+              ],
+              "optionsHi": null,
+              "correctIndex": 0,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": true,
+              "imageDescription": "A sequence of grid squares with asterisk symbols arranged in rotating or shifting patterns, followed by a box with a question mark."
+            },
+            {
+              "qNo": 9,
+              "text": "What should come in place of '?' in the given series?\n578 545 512 479 446 ?",
+              "textHi": null,
+              "options": [
+                "429",
+                "439",
+                "423",
+                "413"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 10,
+              "text": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?\n(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+              "textHi": null,
+              "options": [
+                "DF - HJ",
+                "SU - WY",
+                "KM - PQ",
+                "CE - GI"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 11,
+              "text": "132 is related to 174 following a certain logic. Following the same logic, 148 is related to 190. To which of the following is 192 related, following the same logic?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+              "textHi": null,
+              "options": [
+                "235",
+                "234",
+                "236",
+                "237"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 12,
+              "text": "If 1 is added to each odd digit and 2 is subtracted from each even digit in the number 7615843, what will be difference between the highest and lowest digits in the number thus formed?",
+              "textHi": null,
+              "options": [
+                "5",
+                "3",
+                "4",
+                "6"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 13,
+              "text": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster)",
+              "textHi": null,
+              "options": [
+                "ZYB",
+                "BAD",
+                "KJM",
+                "OOQ"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 14,
+              "text": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete?\nKMO 2, NPR 4, QSU 6, TVX 8, ?",
+              "textHi": null,
+              "options": [
+                "UWZ 8",
+                "UVY 10",
+                "TWY 8",
+                "WYA 10"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 15,
+              "text": "What will come in the place of '?' in the following equation, if '+' and '-' are interchanged and 'x' and '÷' are interchanged?\n$10 \\div 2 \\times 5 + 6 - 4 = ?$",
+              "textHi": null,
+              "options": [
+                "10",
+                "8",
+                "2",
+                "16"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 16,
+              "text": "14 is related to 58 following a certain logic. Following the same logic, 15 is related to 62. To which of the following is 18 related, following the same logic?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+              "textHi": null,
+              "options": [
+                "71",
+                "72",
+                "73",
+                "74"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 17,
+              "text": "Below are given two sets of numbers. In each set of numbers, a certain mathematical operation on first number results in the second number. Similarly, certain mathematical operation on second number results in the third number and so on. Which of the given options follows the same set of operations as in question?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 Operations on 13 such as adding / subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)\n27-29.6-33.2-37.8; 38-40.6-44.2-48.8",
+              "textHi": null,
+              "options": [
+                "59-61.6-64.2-66.8",
+                "53-55.6-59.2-65.8",
+                "64-66.6-69.2-74.8",
+                "44-46.6-50.2-54.8"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 18,
+              "text": "What should come in place of '?' in the given series?\n18 29 62 117 194 293 ?",
+              "textHi": null,
+              "options": [
+                "430",
+                "403",
+                "414",
+                "441"
+              ],
+              "optionsHi": null,
+              "correctIndex": 2,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 19,
+              "text": "4 is related to 64 following a certain logic. Following the same logic, 7 is related to 343. To which of the following is 12 related, following the same logic?\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+              "textHi": null,
+              "options": [
+                "1736",
+                "1758",
+                "1764",
+                "1728"
+              ],
+              "optionsHi": null,
+              "correctIndex": 3,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            },
+            {
+              "qNo": 20,
+              "text": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster)",
+              "textHi": null,
+              "options": [
+                "ZYV",
+                "IIE",
+                "YXU",
+                "TSP"
+              ],
+              "optionsHi": null,
+              "correctIndex": 1,
+              "explanation": "",
+              "marks": null,
+              "negativeMarks": null,
+              "topic": null,
+              "hasImage": false,
+              "imageDescription": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

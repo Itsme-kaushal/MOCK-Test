@@ -1,0 +1,449 @@
+{
+  "schemaVersion": "1.0",
+  "papers": [
+    {
+      "exam": "SSC CGL Tier-1",
+      "paperName": "SSC CGL 2025 Combined Graduate Level — Shift 1",
+      "year": 2025,
+      "date": "2025-09-14",
+      "shift": "Shift 1 (09:00 AM - 10:00 AM)",
+      "durationMin": 60,
+      "totalMarks": 24,
+      "marking": {
+        "correct": 2,
+        "negative": 0.5
+      },
+      "sections": [
+        {
+          "name": "Quantitative Aptitude",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 1,
+              "text": "If $x + \\frac{1}{x} = 4$, then find the exact value of $x^3 + \\frac{1}{x^3}$.",
+              "textHi": "यदि $x + \\frac{1}{x} = 4$ है, तो $x^3 + \\frac{1}{x^3}$ का सटीक मान ज्ञात कीजिए।",
+              "options": ["52", "64", "48", "60"],
+              "optionsHi": ["52", "64", "48", "60"],
+              "correctIndex": 0,
+              "explanation": "Using the algebraic identity $(x + \\frac{1}{x})^3 = x^3 + \\frac{1}{x^3} + 3(x + \\frac{1}{x})$, we get $4^3 = x^3 + \\frac{1}{x^3} + 3(4) \\Rightarrow 64 - 12 = 52$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Algebra",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 2,
+              "text": "Study the quarterly revenue table below and find the percentage increase in revenue from Q1 to Q4:\n\n| Quarter | Revenue (in ₹ Crore) | Operating Cost (in ₹ Crore) |\n| :--- | :--- | :--- |\n| Q1 | 120 | 85 |\n| Q2 | 135 | 90 |\n| Q3 | 150 | 95 |\n| Q4 | 168 | 102 |",
+              "textHi": "नीचे दी गई तिमाही राजस्व तालिका का अध्ययन करें और Q1 से Q4 तक राजस्व में प्रतिशत वृद्धि ज्ञात करें:\n\n| Quarter | Revenue (in ₹ Crore) | Operating Cost (in ₹ Crore) |\n| :--- | :--- | :--- |\n| Q1 | 120 | 85 |\n| Q2 | 135 | 90 |\n| Q3 | 150 | 95 |\n| Q4 | 168 | 102 |",
+              "options": ["35%", "40%", "42.5%", "38%"],
+              "optionsHi": ["35%", "40%", "42.5%", "38%"],
+              "correctIndex": 1,
+              "explanation": "Revenue in Q1 = 120, Revenue in Q4 = 168. Increase = $168 - 120 = 48$. Percentage increase = $\\frac{48}{120} \\times 100 = 40\\%$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Data Interpretation",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 3,
+              "text": "In the figure shown, $AB$ is a chord of length $16\\text{ cm}$ in a circle of radius $10\\text{ cm}$ with center $O$. Find the perpendicular distance $OM$ from the center $O$ to the chord $AB$.",
+              "textHi": "दिखाए गए चित्र में, केंद्र $O$ और त्रिज्या $10\\text{ cm}$ वाले वृत्त में $AB$ $16\\text{ cm}$ लंबाई की एक जीवा है। केंद्र $O$ से जीवा $AB$ पर लंबवत दूरी $OM$ ज्ञात कीजिए।",
+              "options": ["6 cm", "8 cm", "5 cm", "12 cm"],
+              "optionsHi": ["6 सेमी", "8 सेमी", "5 सेमी", "12 सेमी"],
+              "correctIndex": 0,
+              "explanation": "The perpendicular from the center bisects the chord, so $AM = \\frac{16}{2} = 8\\text{ cm}$. By Pythagoras theorem in $\\triangle OMA$, $OM = \\sqrt{OA^2 - AM^2} = \\sqrt{10^2 - 8^2} = \\sqrt{36} = 6\\text{ cm}$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Geometry",
+              "hasImage": true,
+              "imageDescription": "Circle with center O, radius OA = 10 cm, horizontal chord AB = 16 cm, and perpendicular OM."
+            },
+            {
+              "qNo": 4,
+              "text": "If $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$, then what is the value of $\\tan\\theta$?",
+              "textHi": "यदि $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$ है, तो $\\tan\\theta$ का मान क्या है?",
+              "options": ["$\\sqrt{2} - 1$", "$\\sqrt{2} + 1$", "$1 - \\sqrt{2}$", "$\\frac{1}{\\sqrt{2}}$"],
+              "optionsHi": ["$\\sqrt{2} - 1$", "$\\sqrt{2} + 1$", "$1 - \\sqrt{2}$", "$\\frac{1}{\\sqrt{2}}$"],
+              "correctIndex": null,
+              "explanation": "Divide both sides by $\\cos\\theta$: $\\tan\\theta + 1 = \\sqrt{2} \\Rightarrow \\tan\\theta = \\sqrt{2} - 1$. (Intentionally left with correctIndex = null to demonstrate Needs Attention workflow).",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Trigonometry",
+              "hasImage": false,
+              "imageDescription": ""
+            }
+          ]
+        },
+        {
+          "name": "General Intelligence & Reasoning",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 5,
+              "text": "Find the missing number in the series: $7, 15, 31, 63, ?, 255$",
+              "textHi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: $7, 15, 31, 63, ?, 255$",
+              "options": ["125", "127", "129", "131"],
+              "optionsHi": ["125", "127", "129", "131"],
+              "correctIndex": 1,
+              "explanation": "Pattern follows $2n + 1$: $7 \\times 2 + 1 = 15$, $15 \\times 2 + 1 = 31$, $31 \\times 2 + 1 = 63$, $63 \\times 2 + 1 = 127$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Number Series",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 6,
+              "text": "Statements:\n1. All engineers are analytical.\n2. Some analytical people are musicians.\n\nConclusions:\nI. Some engineers are musicians.\nII. All musicians being analytical is a possibility.",
+              "textHi": "कथन:\n1. सभी इंजीनियर विश्लेषणात्मक हैं।\n2. कुछ विश्लेषणात्मक लोग संगीतकार हैं।\n\nनिष्कर्ष:\nI. कुछ इंजीनियर संगीतकार हैं।\nII. सभी संगीतकारों के विश्लेषणात्मक होने की संभावना है।",
+              "options": [
+                "Only Conclusion I follows",
+                "Only Conclusion II follows",
+                "Both Conclusions I and II follow",
+                "Neither Conclusion I nor II follows"
+              ],
+              "optionsHi": [
+                "केवल निष्कर्ष I अनुसरण करता है",
+                "केवल निष्कर्ष II अनुसरण करता है",
+                "निष्कर्ष I और II दोनों अनुसरण करते हैं",
+                "न तो निष्कर्ष I और न ही II अनुसरण करता है"
+              ],
+              "correctIndex": 1,
+              "explanation": "There is no direct overlap guaranteed between engineers and musicians, so I does not definitely follow. Since there is no negative restriction between musicians and analytical people, all musicians being analytical is a valid possibility (II follows).",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Syllogism",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 7,
+              "text": "In a certain code language, `QUANTUM` is written as `RVBOUVN`. How will `GRAVITY` be written in that code?",
+              "textHi": "एक निश्चित कूट भाषा में `QUANTUM` को `RVBOUVN` लिखा जाता है। उसी कूट भाषा में `GRAVITY` को कैसे लिखा जाएगा?",
+              "options": ["HSBWJUZ", "HSBVJUZ", "HTBWJUZ", "HSBWJVZ"],
+              "optionsHi": ["HSBWJUZ", "HSBVJUZ", "HTBWJUZ", "HSBWJVZ"],
+              "correctIndex": 0,
+              "explanation": "Each letter is shifted forward by $+1$ in the English alphabet: G→H, R→S, A→B, V→W, I→J, T→U, Y→Z.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Coding-Decoding",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 8,
+              "text": "Select the option figure that completes the pattern in the given question figure.",
+              "textHi": "उस विकल्प आकृति का चयन करें जो दी गई प्रश्न आकृति में पैटर्न को पूरा करती है।",
+              "options": [
+                "Top-left quadrant shaded with diagonal arrow",
+                "Bottom-right quadrant shaded with inward arrow",
+                "Bottom-left quadrant shaded with outward arrow",
+                "Top-right quadrant unshaded with concentric circle"
+              ],
+              "optionsHi": [
+                "विकर्ण तीर के साथ छायांकित ऊपरी-बायां चतुर्थांश",
+                "अंदर की ओर तीर के साथ छायांकित निचला-दायां चतुर्थांश",
+                "बाहर की ओर तीर के साथ छायांकित निचला-बायां चतुर्थांश",
+                "संकेंद्रित वृत्त के साथ अछायांकित ऊपरी-दायां चतुर्थांश"
+              ],
+              "correctIndex": 1,
+              "explanation": "Each quadrant rotates $90^\\circ$ clockwise with alternating inward/outward arrows.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Visual Reasoning",
+              "hasImage": true,
+              "imageDescription": "2x2 matrix pattern with missing bottom-right quadrant"
+            }
+          ]
+        },
+        {
+          "name": "English & General Awareness",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 9,
+              "text": "Choose the word that is most nearly **OPPOSITE** in meaning to the word: **EPHEMERAL**",
+              "textHi": "उस शब्द का चयन करें जो **EPHEMERAL** शब्द के अर्थ के सबसे विपरीत (Antonym) हो:",
+              "options": ["Transient", "Perpetual", "Fleeting", "Fragile"],
+              "optionsHi": ["Transient (क्षणिक)", "Perpetual (शाश्वत/स्थायी)", "Fleeting (अल्पकालिक)", "Fragile (नाजुक)"],
+              "correctIndex": 1,
+              "explanation": "Ephemeral means lasting for a very short time. Perpetual means never ending or changing (eternal/permanent).",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Vocabulary",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 10,
+              "text": "Which Constitutional Amendment Act added the Fundamental Duties (Part IV-A, Article 51A) to the Constitution of India?",
+              "textHi": "किस संविधान संशोधन अधिनियम ने भारत के संविधान में मौलिक कर्तव्यों (भाग IV-A, अनुच्छेद 51A) को जोड़ा?",
+              "options": [
+                "42nd Amendment Act, 1976",
+                "44th Amendment Act, 1978",
+                "86th Amendment Act, 2002",
+                "73rd Amendment Act, 1992"
+              ],
+              "optionsHi": [
+                "42वां संशोधन अधिनियम, 1976",
+                "44वां संशोधन अधिनियम, 1978",
+                "86वां संशोधन अधिनियम, 2002",
+                "73वां संशोधन अधिनियम, 1992"
+              ],
+              "correctIndex": 0,
+              "explanation": "On the recommendation of the Swaran Singh Committee, the 42nd Constitutional Amendment Act (1976) inserted 10 Fundamental Duties into Part IV-A.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Indian Polity",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 11,
+              "text": "Select the most appropriate meaning of the idiom: **To burn the midnight oil**",
+              "textHi": "मुहावरे का सबसे उपयुक्त अर्थ चुनें: **To burn the midnight oil**",
+              "options": [
+                "To waste valuable resources recklessly",
+                "To work or study late into the night",
+                "To create a sudden controversy",
+                "To extinguish an old rivalry"
+              ],
+              "optionsHi": [
+                "मूल्यवान संसाधनों को लापरवाही से बर्बाद करना",
+                "देर रात तक काम या पढ़ाई करना",
+                "अचानक विवाद पैदा करना",
+                "पुरानी दुश्मनी खत्म करना"
+              ],
+              "correctIndex": 1,
+              "explanation": "'Burning the midnight oil' refers to reading, studying, or working late into the night.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Idioms & Phrases",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 12,
+              "text": "What is the SI unit of magneticelina flux $\\Phi_B = \\int \\mathbf{B} \\cdot d\\mathbf{A}$?",
+              "textHi": "चुंबकीय फ्लक्स $\\Phi_B = \\int \\mathbf{B} \\cdot d\\mathbf{A}$ का SI मात्रक क्या है?",
+              "options": ["Tesla (T)", "Weber (Wb)", "Henry (H)", "Farad (F)"],
+              "optionsHi": ["टेस्ला (T)", "वेबर (Wb)", "हेनरी (H)", "फैराड (F)"],
+              "correctIndex": 1,
+              "explanation": "The SI unit of magnetic flux is the Weber (Wb), whereas Tesla ($\\text{Wb/m}^2$) is the unit of magnetic flux density.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Physics",
+              "hasImage": false,
+              "imageDescription": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "exam": "SSC CGL Tier-1",
+      "paperName": "SSC CGL 2025 Combined Graduate Level — Shift 2",
+      "year": 2025,
+      "date": "2025-09-14",
+      "shift": "Shift 2 (12:30 PM - 01:30 PM)",
+      "durationMin": 60,
+      "totalMarks": 18,
+      "marking": {
+        "correct": 2,
+        "negative": 0.5
+      },
+      "sections": [
+        {
+          "name": "Quantitative Aptitude",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 1,
+              "text": "A train running at $72\\text{ km/h}$ crosses a platform of length $250\\text{ m}$ in $26\\text{ seconds}$. What is the length of the train?",
+              "textHi": "$72\\text{ km/h}$ की गति से चलने वाली एक रेलगाड़ी $250\\text{ m}$ लंबे प्लेटफॉर्म को $26\\text{ सेकंड}$ में पार करती है। रेलगाड़ी की लंबाई क्या है?",
+              "options": ["270 m", "260 m", "240 m", "280 m"],
+              "optionsHi": ["270 मी", "260 मी", "240 मी", "280 मी"],
+              "correctIndex": 0,
+              "explanation": "Speed in $\\text{m/s} = 72 \\times \\frac{5}{18} = 20\\text{ m/s}$. Total distance covered in $26\\text{ s} = 20 \\times 26 = 520\\text{ m}$. Length of train $= 520 - 250 = 270\\text{ m}$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Time, Speed & Distance",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 2,
+              "text": "The compound interest on a certain sum at $10\\%$ per annum for $2\\text{ years}$ is $₹1,050$. Find the simple interest on the same sum at the same rate for the same period.",
+              "textHi": "किसी निश्चित राशि पर $10\\%$ वार्षिक दर से $2\\text{ वर्ष}$ का चक्रवृद्धि ब्याज $₹1,050$ है। समान अवधि के लिए समान दर पर उसी राशि पर साधारण ब्याज ज्ञात कीजिए।",
+              "options": ["₹1,000", "₹950", "₹1,020", "₹980"],
+              "optionsHi": ["₹1,000", "₹950", "₹1,020", "₹980"],
+              "correctIndex": 0,
+              "explanation": "Effective CI rate for 2 years at $10\\% = 10 + 10 + \\frac{10 \\times 10}{100} = 21\\%$. Effective SI rate $= 20\\%$. Thus $\\text{SI} = \\frac{1050}{21} \\times 20 = ₹1,000$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Compound Interest",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 3,
+              "text": "Evaluate the definite integral: $$\\int_{0}^{\\pi/4} \\sec^2(x)\\,dx$$",
+              "textHi": "निश्चित समाकलन का मान ज्ञात कीजिए: $$\\int_{0}^{\\pi/4} \\sec^2(x)\\,dx$$",
+              "options": ["$1$", "$\\sqrt{2}$", "$\\frac{\\pi}{4}$", "$0$"],
+              "optionsHi": ["$1$", "$\\sqrt{2}$", "$\\frac{\\pi}{4}$", "$0$"],
+              "correctIndex": 0,
+              "explanation": "$\\int_{0}^{\\pi/4} \\sec^2(x)\\,dx = [\\tan(x)]_{0}^{\\pi/4} = \\tan(\\frac{\\pi}{4}) - \\tan(0) = 1 - 0 = 1$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Calculus",
+              "hasImage": false,
+              "imageDescription": ""
+            }
+          ]
+        },
+        {
+          "name": "General Intelligence & Reasoning",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 4,
+              "text": "Pointing to a photograph, Aarav said, \"She is the daughter of the only son of my grandfather.\" How is the girl in the photograph related to Aarav?",
+              "textHi": "एक तस्वीर की ओर इशारा करते हुए आरव ने कहा, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" तस्वीर में दिख रही लड़की का आरव से क्या संबंध है?",
+              "options": ["Sister", "Cousin", "Aunt", "Niece"],
+              "optionsHi": ["बहन", "कज़िन", "बुआ", "भतीजी"],
+              "correctIndex": 0,
+              "explanation": "'Only son of my grandfather' is Aarav's father. The daughter of Aarav's father is Aarav's sister.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Blood Relations",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 5,
+              "text": "If $A \\oplus B = A^2 + B^2 - AB$, then find the value of $(4 \\oplus 3) \\oplus 2$.",
+              "textHi": "यदि $A \\oplus B = A^2 + B^2 - AB$ है, तो $(4 \\oplus 3) \\oplus 2$ का मान ज्ञात कीजिए।",
+              "options": ["147", "151", "139", "169"],
+              "optionsHi": ["147", "151", "139", "169"],
+              "correctIndex": 0,
+              "explanation": "First, $4 \\oplus 3 = 4^2 + 3^2 - 4(3) = 16 + 9 - 12 = 13$. Next, $13 \\oplus 2 = 13^2 + 2^2 - 13(2) = 169 + 4 - 26 = 147$.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Mathematical Operations",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 6,
+              "text": "Identify the number of triangles in the given geometric star figure.",
+              "textHi": "दी गई ज्यामितीय तारा आकृति में त्रिभुजों की संख्या पहचानें।",
+              "options": ["10", "8", "12", "14"],
+              "optionsHi": ["10", "8", "12", "14"],
+              "correctIndex": null,
+              "explanation": "A regular 5-pointed star (pentagram) has 5 outer small triangles and 5 larger overlapping triangles, totaling 10. (Left as null answer to test Needs Attention filter).",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Figure Counting",
+              "hasImage": true,
+              "imageDescription": "5-pointed inscribed pentagram star"
+            }
+          ]
+        },
+        {
+          "name": "English & General Awareness",
+          "durationMin": 20,
+          "marking": {
+            "correct": 2,
+            "negative": 0.5
+          },
+          "questions": [
+            {
+              "qNo": 7,
+              "text": "Choose the word that can substitute the given phrase: **A person who speaks many languages fluently**",
+              "textHi": "दिए गए वाक्यांश के लिए एक शब्द चुनें: **एक व्यक्ति जो कई भाषाएँ धाराप्रवाह बोलता है**",
+              "options": ["Polyglot", "Philanthropist", "Somnambulist", "Iconoclast"],
+              "optionsHi": ["Polyglot (बहुभाषी)", "Philanthropist (परोपकारी)", "Somnambulist (नींद में चलने वाला)", "Iconoclast (रूढ़िभंजक)"],
+              "correctIndex": 0,
+              "explanation": "Polyglot means knowing or using several languages. Philanthropist loves humanity; Somnambulist walks in sleep; Iconoclast attacks cherished beliefs.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "One Word Substitution",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 8,
+              "text": "Which monetary policy instrument represents the interest rate at which the Reserve Bank of India (RBI) lends short-term funds to commercial banks against government securities?",
+              "textHi": "कौन सा मौद्रिक नीति साधन उस ब्याज दर का प्रतिनिधित्व करता है जिस पर भारतीय रिजर्व बैंक (RBI) सरकारी प्रतिभूतियों के बदले वाणिज्यिक बैंकों को अल्पकालिक धन उधार देता है?",
+              "options": [
+                "Repo Rate",
+                "Reverse Repo Rate",
+                "Cash Reserve Ratio (CRR)",
+                "Statutory Liquidity Ratio (SLR)"
+              ],
+              "optionsHi": [
+                "रेपो दर (Repo Rate)",
+                "रिवर्स रेपो दर (Reverse Repo Rate)",
+                "नकद आरक्षित अनुपात (CRR)",
+                "वैधानिक तरलता अनुपात (SLR)"
+              ],
+              "correctIndex": 0,
+              "explanation": "Repo (Repurchase) Rate is the rate at which the central bank (RBI) lends short-term money to commercial banks against approved securities.",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Economics",
+              "hasImage": false,
+              "imageDescription": ""
+            },
+            {
+              "qNo": 9,
+              "text": "Identify the grammatically correct passive voice form of: **\"The scientist presented the breakthrough findings at the symposium.\"**",
+              "textHi": "दिए गए वाक्य का व्याकरणिक रूप से सही कर्मवाच्य (Passive Voice) पहचानें: **\"The scientist presented the breakthrough findings at the symposium.\"**",
+              "options": [
+                "The breakthrough findings were presented by the scientist at the symposium.",
+                "The breakthrough findings had been presented by the scientist at the symposium.",
+                "The breakthrough findings are being presented by the scientist at the symposium.",
+                "The breakthrough findings was presented by the scientist at the symposium."
+              ],
+              "optionsHi": [
+                "The breakthrough findings were presented by the scientist at the symposium.",
+                "The breakthrough findings had been presented by the scientist at the symposium.",
+                "The breakthrough findings are being presented by the scientist at the symposium.",
+                "The breakthrough findings was presented by the scientist at the symposium."
+              ],
+              "correctIndex": 0,
+              "explanation": "Simple past active ('presented') converts to 'were + past participle' ('were presented') for plural object ('the breakthrough findings').",
+              "marks": 2,
+              "negativeMarks": 0.5,
+              "topic": "Active & Passive Voice",
+              "hasImage": false,
+              "imageDescription": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
